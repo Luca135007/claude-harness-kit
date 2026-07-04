@@ -1,5 +1,7 @@
 # claude-harness-kit
 
+English | [繁體中文](README.zh-TW.md)
+
 Rule files that make cheaper Claude models work with senior-engineer discipline.
 
 ## The idea
